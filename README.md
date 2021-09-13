@@ -1,2 +1,3 @@
-# Projeto-ASG
-um projetinho sobre implantação do conceito ESG ( ASG no brasil)
+# id-geek-soul
+Projeto em conjunto com o Grupo Petropoles, sobre ASG.
+inicio projeto
